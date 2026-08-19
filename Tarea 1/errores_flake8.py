@@ -1,5 +1,7 @@
 import math
 
-x=5
+x = 5
 
-numeros = [1,2]
+numeros = [1, 2]
+
+y = math.sqrt(x)
